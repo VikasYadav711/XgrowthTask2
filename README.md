@@ -23,3 +23,6 @@ then, on browser console using below fetch api given the input email:
     catch(err=> console.log(err));
 }
 ```
+
+### User-Details Json File
+- The fetched details get saved in the `user-details.json` file.
